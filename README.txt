@@ -1,4 +1,4 @@
-1-Colocar a pasta CadastrodeclienteNewM em C:\xampp\htdocs
+1-Colocar a pasta Cadastrocliente em C:\xampp\htdocs
 2-Abrir o  xampp e dar start no Apache e no MySQL
 3-Acessar este link http://localhost/Cadastrocliente/Cadastro.php
 4-Acessar este link http://localhost/phpmyadmin/
